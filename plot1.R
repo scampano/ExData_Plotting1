@@ -1,4 +1,4 @@
-1plot1 <- function(){
+plot1 <- function(){
 
 # Load data.
 df <- read.csv("household_power_consumption.txt", sep=";", na.strings="?")
